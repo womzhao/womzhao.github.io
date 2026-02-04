@@ -3,9 +3,9 @@ title: Wiki Blog
 SEOTitle: Wiki Blog
 header-img: img/home-bg.jpg
 email: wikiwiki20066@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://womzhao.github.io/wiki.github.io/" # your host, for absolute URL
+description: "Wom 的个人博客，取代人类的从来不是AI, 而是人类对自身存在价值的放弃！"
+keyword: "Blog, 博客, 个人网站， 一堆杂七 杂八"
+url: "https://womzhao.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,12 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+# weibo_username: wiki
+# zhihu_username: wiki
+# github_username: wiki
+# twitter_username: wiki
+#facebook_username:  wiki
+#linkedin_username:  wiki
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: ""
 
 # Netease settings
 netease_comment: false
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "社会边缘牛马 <br> Data Analyst"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -89,14 +89,14 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends:
-  [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
-  ]
+# friends:
+#   [
+#     { title: "乱序（Midare）", href: "http://mida.re/" },
+#     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
+#     { title: "Kun Qian", href: "http://kunq.me" },
+#     { title: "Sherry Woo", href: "https://sherrywoo.me/" },
+#     { title: "SmdCn", href: "http://blog.smdcn.net" },
+#     { title: "JiyinYiyong", href: "http://tiye.me/" },
+#     { title: "DHong Say", href: "http://dhong.co" },
+#     { title: "尹峰以为", href: "http://ingf.github.io/" },
+#   ]
